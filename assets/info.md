@@ -1,0 +1,1 @@
+# You must upload your assets to the assets folder.
