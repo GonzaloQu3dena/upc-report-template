@@ -1,19 +1,20 @@
 <div align="center">
 
-# Universidad Peruana De Ciencias Aplicadas
-## Ingeniería de Software  
-## NRC: [NRC number]
-## [Course code] - [Course name]
-
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" width="220"/>
 
-# Informe de [Report type]
-## Docente: [Teacher name]  
-## Startup: [Startup name]  
-## Producto: [Product name]
+<h3>Universidad Peruana De Ciencias Aplicadas</h3>
+<h3>Facultad de Ingeniería</h3>
+<h3>Ingeniería de Software</h3>
+<h3>202X[Period]</h3>
+<h3>[Course code] - [Course name]</h3>
+<h3>NRC: [NRC number]</h3>
+<h3>Profesor: [Teacher name]</h3>
+<h3>"Informe de [Report type]"</h3>
+<h3>Startup: [Startup name]</h3>
+<h3>Producto: [Product name]</h3>
 
-## Relación de integrantes:
 
+<h3>Relación de integrantes:</h3>
 <table>
     <tr>
         <th>Código</th>
