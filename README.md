@@ -32,7 +32,7 @@ git checkout docs/chapter-i
 ### 2. Formatting for Export
 
 <p align="justify">
-To ensure proper formatting when exporting to PDF (especially for merging later), every markdown file representing a chapter must end with the following HTML snippet to enforce a page break:
+To ensure proper formatting when exporting to PDF (especially for merging later), every markdown file representing a chapter must end with the following HTML snippet. This recommendation is also to separate content into different pages and structure the document better:
 </p>
 
 ```html
